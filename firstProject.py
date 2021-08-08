@@ -2,3 +2,4 @@
 print("Hello World!")
 name = input("What is your name?\n")
 print("Hello", name)
+age = input("How old are you?\n")
